@@ -1,0 +1,541 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4590,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 10402,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "areas.html",
+			"settings":
+			{
+				"buffer_size": 5318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contacto.html",
+			"settings":
+			{
+				"buffer_size": 5723,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/lawyers2/lawyers2/js/main.js",
+		"/C/xampp/htdocs/lawyers2/lawyers2/contacto.html",
+		"/C/xampp/htdocs/lawyers2/lawyers2/areas.html",
+		"/C/Users/PLUS/AppData/Roaming/Sublime Text 2/Packages/User/banner.sublime-snippet",
+		"/C/xampp/htdocs/lawyers2/lawyers2/css/normalize.css",
+		"/C/xampp/htdocs/lawyers2/lawyers2/sass/style.scss",
+		"/C/xampp/htdocs/lawyers2/lawyers2/sass/normalize.scss",
+		"/C/xampp/htdocs/lawyers2/lawyers2/sass/_variables.scss",
+		"/C/xampp/htdocs/lawyers2/lawyers2/css/style.css",
+		"/C/xampp/htdocs/lawyers/index.html",
+		"/C/xampp/htdocs/abogados/index.html",
+		"/C/xampp/htdocs/lawyers2/lawyers2/sass/_media-queries.scss",
+		"/C/xampp/htdocs/boiler/html5-boilerplate/sass/style.css",
+		"/C/xampp/htdocs/boiler/html5-boilerplate/css/main.css",
+		"/C/xampp/htdocs/boiler/html5-boilerplate/sass/_media-queries.scss",
+		"/C/xampp/htdocs/boiler/html5-boilerplate/sass/_grid.scss",
+		"/C/xampp/htdocs/boiler/html5-boilerplate/sass/normalize.scss",
+		"/C/xampp/htdocs/boiler/html5-boilerplate/.gitignore",
+		"/C/xampp/htdocs/boiler/html5-boilerplate/img/.gitignore",
+		"/C/xampp/htdocs/lawyers/css/style.css",
+		"/C/xampp/htdocs/alexvijo.github.io/index.html",
+		"/C/xampp/htdocs/lawyers/js/main.js",
+		"/C/xampp/htdocs/octopress/octopress2/sass/custom/_colors.scss",
+		"/C/xampp/htdocs/octopress/octopress2/source/_includes/navigation.html",
+		"/C/xampp/htdocs/octopress/octopress2/sass/custom/_styles.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_syntax.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_theme.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_utilities.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_solarized.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_foundation.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_layout.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_bootstrap-responsive.scss",
+		"/C/xampp/htdocs/octopress/octopress2/public/stylesheets/screen.css",
+		"/C/xampp/htdocs/octopress/octopress2/sass/base/_bootstrap.scss",
+		"/C/xampp/htdocs/octopress/octopress2/source/_layouts/default.html",
+		"/C/xampp/htdocs/octopress/octopress2/source/index.html",
+		"/C/xampp/htdocs/octopress/octopress2/source/_includes/head.html",
+		"/C/xampp/htdocs/octopress/octopress2/sass/custom/_layout.scss",
+		"/C/xampp/htdocs/octopress/octopress2/sass/custom/_fonts.scss",
+		"/C/xampp/htdocs/octopress/octopress2/source/_layouts/page.html",
+		"/C/xampp/htdocs/octopress/octopress2/source/_includes/custom/intro.html",
+		"/C/xampp/htdocs/octopress/octopress2/source/_includes/header.html",
+		"/C/xampp/htdocs/octopress/octopress2/sass/partials/_navigation.scss",
+		"/C/xampp/htdocs/octopress/octopress2/_config.yml",
+		"/C/xampp/htdocs/octopress/octopress2/sass/partials/_header.scss",
+		"/C/xampp/htdocs/octopress/octopress2/source/_includes/custom/header.html",
+		"/C/xampp/htdocs/octopress/octopress2/source/_includes/custom/head.html",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/source/index.html",
+		"/C/xampp/htdocs/octopress/octopress2/Rakefile",
+		"/C/xampp/htdocs/octopress/octopress2/source/111index.html",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/sass/base/_theme.scss",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/sass/custom/_fonts.scss",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/source/_includes/custom/intro.html",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/source/_includes/head.html",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/source/_layouts/post.html",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/source/_layouts/default.html",
+		"/C/xampp/htdocs/octopress/octopress2/.themes/foxslide/source/_layouts/page.html",
+		"/C/xampp/htdocs/octopress/octopress/Rakefile",
+		"/C/xampp/htdocs/octopress/octopress/source/index.html",
+		"/C/xampp/htdocs/octopress/octopress/source/blog/index.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_layouts/default.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_layouts/home.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_layouts/page.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_includes/custom/navigation.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_includes/custom/head.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_includes/header.html",
+		"/C/xampp/htdocs/octopress/octopress/sass/custom/_fonts.scss",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/_includes/custom/navigation.html",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/_layouts/page.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_includes/custom/header.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_pages/home/index.markdown",
+		"/C/xampp/htdocs/octopress/octopress/source/home/index.markdown",
+		"/C/xampp/htdocs/octopress/octopress/source/_posts/2014-02-16-essencial-brief-videos.markdown",
+		"/C/xampp/htdocs/octopress/octopress/_config.yml",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/sass/custom/_colors.scss",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/sass/custom/_styles.scss",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/_includes/custom/header.html",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/index.html",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/sass/custom/_fonts.scss",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/_includes/custom/footer.html",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/_includes/custom/head.html",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/_layouts/default.html",
+		"/C/xampp/htdocs/octopress/octopress/.themes/leanpress/source/_includes/header.html",
+		"/C/xampp/htdocs/octopress/octopress/source/_includes/custom/asides/about.html",
+		"/C/xampp/htdocs/octopress/octopress/public/index.html",
+		"/C/xampp/htdocs/abogados/less/style.less",
+		"/C/xampp/htdocs/abogados/js/script.js",
+		"/C/xampp/htdocs/BackupFebrero08022014/_/index.html",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/twentytwelve/archive.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/twentytwelve/category.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/category.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/templates/category.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/page_home.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/page_posts.php",
+		"/C/xampp/htdocs/wagging2/wp-includes/theme-compat/sidebar.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/page.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/page_simpatizantes.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/page_muestras.php",
+		"/C/xampp/htdocs/wagging2/wp-includes/default-widgets.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/functions.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/assets/inc/smart-widgets.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/header.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/assets/css/custom.css",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/assets/css/bootstrap.css",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/assets/css/111main.css",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/assets/css/1bootstrap.css",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/templates/full-width.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/templates/content.php",
+		"/C/xampp/htdocs/wagging2/wp-admin/includes/update.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/index.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/Fonts/stylesheet.css",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/footer.php",
+		"/C/xampp/htdocs/BackupFebrero10012014/js/main.js",
+		"/C/xampp/htdocs/BackupFebrero10012014/contact_me.php",
+		"/C/xampp/htdocs/BackupFebrero10012014/js/jail.min.js",
+		"/C/Users/PLUS/Desktop/Formulario que funciona/BackupFebrero10012014/index.html",
+		"/C/Users/PLUS/Desktop/Formulario que funciona/BackupFebrero10012014/js/main.js",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/page-simpatizantes.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/image.php",
+		"/C/Users/PLUS/Desktop/Formulario que funciona/BackupFebrero01122013/_/index.html",
+		"/C/Users/PLUS/Desktop/Boilerplate/Boilerplate/.gitattributes",
+		"/C/Users/PLUS/Desktop/Boilerplate/Boilerplate/.gitignore",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single-post.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single-simpatizante.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single-Destacado.php",
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/searchform.php",
+		"/C/xampp/htdocs/landscapecode/css/reset.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\lawyers2\\lawyers2",
+			"C:\\xampp\\htdocs\\octopress\\octopress2,C:\\xampp\\htdocs\\boiler\\html5-boilerplate",
+			"C:\\xampp\\htdocs\\octopress\\octopress2",
+			"C:\\xampp\\htdocs\\wagging2\\wp-content\\themes\\wp-bootstrap3",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"navigation",
+			"idiomas",
+			"servi",
+			"gridColumnWidth",
+			"noListStyle",
+			"container",
+			"940px",
+			"container",
+			"visuallyhidden",
+			"modern",
+			"moder",
+			"fav",
+			"solari",
+			"img",
+			"#428BCA",
+			"#2A6496",
+			"col-lg",
+			"col",
+			"back",
+			"#08C",
+			"08C",
+			">\n",
+			"index",
+			"dir",
+			"blog",
+			"My Octopress",
+			"my octopress blog",
+			"=\"\">\n",
+			"img",
+			"Sigue leyendo",
+			"wp_bootstrap3-sidebar-page",
+			"sidebar",
+			"h3",
+			"persona",
+			"<h3 class=\"orange\">",
+			"<h3>",
+			"h3",
+			"persona",
+			"widg",
+			"persona",
+			"widget",
+			"class",
+			"persona",
+			"personacategori",
+			"persona",
+			"cor",
+			"categor",
+			"categori",
+			"sty",
+			"wag",
+			"menu",
+			"h3",
+			"categ",
+			"wp_bootstrap3-sidebar-page",
+			"option",
+			"posts",
+			"post",
+			"'sidebars_widgets' ",
+			"'sidebars_widgets'",
+			"update_option( 'sidebars_widgets'",
+			"update_optio",
+			"update_option ",
+			"update_option",
+			"categories-2",
+			"id=\"categories-2\"",
+			"alert",
+			"jail",
+			"jai",
+			"jail",
+			"thumb",
+			"a:hover ",
+			"a:hover",
+			"thumbnail",
+			"');?>\n",
+			"entry",
+			"690",
+			"simpa",
+			"posts",
+			"my_get_posts",
+			"80",
+			"exce",
+			"excerpt",
+			"foot",
+			"stamp",
+			"foot",
+			"post",
+			"bootstra",
+			"{} ",
+			">\n",
+			"form",
+			">",
+			"filtro",
+			".btn-large{",
+			".btn-large",
+			"btn-large",
+			"btn-la",
+			"19",
+			"knkj",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"#333",
+			"$mango",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 10402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "areas.html",
+					"settings":
+					{
+						"buffer_size": 5318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contacto.html",
+					"settings":
+					{
+						"buffer_size": 5723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sty",
+				"CSS/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 113.0,
+	"status_bar_visible": true
+}

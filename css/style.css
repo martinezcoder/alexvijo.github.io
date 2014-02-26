@@ -1,0 +1,482 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+html {
+    height: 100%;
+    color: #666;
+    font-size: 14px;
+    font-family: 'Open Sans', Verdana, Serif, Arial;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #90142E;
+    text-shadow: none;
+    color:#fff;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+audio,
+canvas,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+*{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+}
+h3, .h3{
+    font-weight: normal;
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a:hover{
+    color: #90142E;
+}
+
+ul, .ul{
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+li.active a{
+    color:#90142E;
+}
+ 
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0px 5px;
+}
+
+.logo{
+    width:300px;
+    margin: 15px 0 9px;
+}
+
+.menu{
+    padding: 10px 0;
+    width: 100%;
+    margin: 0;
+    padding: 5px 0;
+}
+.principal li{
+    float:left;
+    padding: 8px 19px 4px 4px;
+}
+
+li.idiomas{
+    float:right;
+    padding: 8px 4px 4px 0px;
+}
+
+.idiomas a{
+    padding: 0 10px 0 0;
+    font-size: 12px;    
+}
+
+
+/* ==========================================================================
+   SECTION
+   ========================================================================== */
+section {
+}
+.main_image iframe{
+    width: 100%;
+    height: 100%;
+}
+.main_image img{
+    width: 100%;
+    max-height: 334px;
+    opacity: 1;
+    height: auto;
+}
+.titulo {
+    color: #90142E;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 14px;
+    margin: 0;
+    padding: 20px 0 0px 0;
+}
+.description{
+    padding: 10px 0 10px;
+    line-height: 1.6;
+}
+.columna {
+    width: 50%;
+    float: right;
+}
+.perfiles{
+    
+}
+.perfil{
+    padding: 28px 0 5px;
+    vertical-align: top;
+    width: 100%;
+}
+
+/* ==========================================================================
+   CONTACTO
+   ========================================================================== */
+.donde{
+    width:50%;
+    background: url('../img/dondeestamos.jpg') no-repeat center center ;
+    background-size: 100% auto;
+    min-height: 266px;
+    float: left;
+    margin: 0 0 10px 0;
+}
+.donde img {
+    width: 100%;
+}
+.direccion{
+    width:50%;
+
+    float: left;
+    padding: 0px 12px 10px 10px;
+    margin: 0 0 10px 0;
+    text-align: right;
+}
+
+@keyframes lineam {
+ from {background-position: top left;}
+ to {background-position: top right;}
+
+}
+
+@-moz-keyframes lineam {
+ from { background-position: top left;}
+ to {background-position: top right;}
+
+}
+
+@-webkit-keyframes lineam {
+ from {background-position: top left;}
+ to {background-position: top right;}
+
+}
+
+@-ms-keyframes lineam {
+ from {background-position: top left;}
+ to {background-position: top right;
+ }
+
+}
+
+@-o-keyframes lineam {
+ from {background-position: top left;}
+ to {background-position: top right;}
+
+}
+@-khtml-keyframes lineam {
+  from { background-position:top left; }
+  to { background-position:top right; }
+}
+.linea{
+    background-color: #000;/* fallback */
+    height:3px;
+    width:100%;
+    text-indent:-9999px;
+    background-size:50% auto;
+    background-image: -webkit-linear-gradient(left, #000, #B21736, #000 );
+    background-image: -moz-linear-gradient(left, #000, #B21736, #B21736, #000);
+    background-image: -o-linear-gradient(left, #000, #B21736, #B21736, #000);
+    background-image: -ms-linear-gradient(left, #000, #B21736, #B21736, #000);
+    background-image: linear-gradient(left, #000, #B21736, #B21736, #000);
+    -webkit-animation: lineam 7s forwards linear infinite;
+    -moz-animation: lineam 7s forwards linear infinite;
+    -ms-animation: lineam 7s forwards linear infinite;
+    -o-animation: lineam 7s forwards linear infinite;
+    animation: lineam 7s forwards linear infinite;
+}
+
+
+footer{
+    background:#1B1C20;
+    color:#fff;
+    min-height: 200px;
+    bottom: 0;
+}
+footer a{
+    color:#fff;
+}
+footer a:hover{
+    color:#B21736;
+}
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+@media print, (-o-min-device-pixel-ratio: 5/4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+
+
+/*
+     MEDIA QUERIES
+*/
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+    .principal li {
+        padding: 8px 10px 8px 10px;
+        background: #222222;
+        color:#fff;
+        width:100%;
+        text-align: center;
+        border-top: 1px solid rgba(0, 0, 0, 0);
+        border-bottom: 1px solid rgba(0, 0, 0, 0);
+        -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1),0 1px 0 rgba(255, 255, 255, 0.1);
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1),0 1px 0 rgba(255, 255, 255, 0.1);
+        border-color: #101010;
+    }
+    .principal li a{
+        color: #f9f9f9;
+    }
+    .principal li a:hover{
+        color: #90142E;
+    }
+    .menu{
+        height: 232px;
+    }
+    nav {
+        height: 0;
+        overflow: hidden;
+    }
+    .nav-open{
+        height:auto;
+    } 
+    
+    nav { display:block; width:100%; max-width:none; }
+    nav ul li { display:inline-block; *display:inline; *zoom:1; }
+    @media screen and (min-width:768px) {
+        nav { height:auto !important; }
+        nav ul.second-nav { position:absolute; left:9999px; -webkit-transition:300ms opacity 0, 0 left 300ms; opacity:0; transition:300ms opacity 0, 0 left 300ms; opacity:0; }
+        nav ul.main-nav { -webkit-transition:300ms opacity 300ms, 0 left 0; transition:300ms opacity 300ms, 0 left 0;  left:0;  opacity:1; }
+        nav.nav-open ul.second-nav { left:0; opacity:1; -webkit-transition:300ms opacity 300ms, 0 left 0; transition:300ms opacity 300ms, 0 left 0;  }
+        nav.nav-open ul.main-nav { left:9999px; opacity:0; -webkit-transition:300ms opacity 0, 0 left 300ms; transition:300ms opacity 0, 0 left 300ms; }
+    }
+    .nav-menu-hold { width:100%; max-width:1000px; margin:0 auto; position:relative; }
+    .nav-menu { display:block; position: absolute; top: 0px; right: 0px; padding:0; z-index: 6000; margin: 0;}
+    .menu-icon {
+        width:40px; height:40px; margin:5px 0 0 0; display:block; background-size:400px;
+        overflow:hidden; text-align: center; line-height:50px; font-size:35px; border-radius: 3px; border-bottom:0;
+    }
+    .menu-icon span { width:20px; height:2px; display: block; background: #222; position:absolute; left: 11px; }
+    .b_cv .menu-icon span, .b_stylesheet .menu-icon span, .nav-menu-pagebody_light .menu-icon span { background:#555; }
+    .menu-l1 { top:17px; -webkit-transition:-webkit-transform 300ms ease 0, top 300ms ease 300ms; }
+    .menu-l2 { top:23px; -webkit-transition:opacity 300ms ease 0; }
+    .menu-l3 { top:29px; -webkit-transition:-webkit-transform 300ms ease 0, top 300ms ease 300ms; }
+    .nav-open-toggle .menu-l1, .nav-open-toggle .menu-l3 {
+        -webkit-transform:rotate(45deg); top:23px;
+        -webkit-transition:top 300ms ease 0, -webkit-transform 300ms ease 300ms;
+    }
+    .nav-open-toggle .menu-l2 {
+        opacity:0;
+    }
+    .nav-open-toggle .menu-l3 { -webkit-transform:rotate(-45deg); }
+
+
+    .columna {
+        width: 99%;
+        float: right;
+    }
+   
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+}
+
+ 
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+
+}
+
+
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+
+}
+ 
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+
+}
+/* iPhone 5 (portrait & landscape)----------- */
+@media only screenand (min-device-width : 320px) and (max-device-width : 568px) {
+
+}
+/* iPhone 5 (landscape)----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+
+}
+/* iPhone 5 (portrait)----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+
+}
