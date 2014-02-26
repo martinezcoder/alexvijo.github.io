@@ -16,10 +16,21 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html class=\"no-js\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <title>Casafont - Toledo | Advocats Associats</title>\n        <meta name=\"description\" content=\"Casafont - Toledo 'Advocats Associats' Despacho de abogados ubicado en Barcelona.\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n        <link rel=\"shortcut icon\" href=\"favicon.jpg\" type=\"image/x-icon\">\n        <script src=\"js/vendor/modernizr-2.7.1.min.js\"></script>\n        <link rel=\"stylesheet\" href=\"css/normalize.css\">\n        <link rel=\"stylesheet\" href=\"css/style.css\">\n        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400' rel='stylesheet' type='text/css'>\n    </head>\n\n<body>\n    <div class=\"linea\">Casafont - Toledo</div>\n    \n    <div class=\"nav-menu-hold clearfix\">\n        <div class=\"nav-menu\">\n            <a id=\"nav-open\" class=\"menu-icon\">\n                <span class=\"menu-l1\"></span>\n                <span class=\"menu-l2\"></span>\n                <span class=\"menu-l3\"></span>\n            </a>\n        </div>\n    </div>        \n\n    <div class=\"container clearfix\">\n        <div class=\"logo\">\n            <a href=\"/\" title=\"Inici Casafont- Toledo\" alt=\"Inici Casafont- Toledo\">\n                <img src=\"logo300.jpg\" alt=\"logo\"> \n            </a>\n        </div>\n    </div>\n\n    <div class=\"container clearfix\">\n        <nav id=\"navigation\">\n            <div class=\"menu\">\n                <ul class=\"principal\">\n                <li class=\"active\"><a href=\"/\" title=\"inicio\" alt=\"inicio\">INICIO</a> </li>\n                <li><a href=\"/quienes-somos.html\" title=\"quienes\" alt=\"quienes\">QUIÉNES SOMOS</a> </li> \n                <li><a href=\"/areas.html\" title=\"areas\" alt=\"areas\">ÁREAS</a> </li> \n                <li><a href=\"/contacto.html\" title=\"contacto\" alt=\"contacto\">CONTACTO</a> </li> \n                <li class=\"idiomas\"><a href=\"/catala\">CAT</a></li>\n                <li class=\"idiomas active\"><a href=\"/\">CAST</a></li>\n                </ul>\n            </div>            \n        </nav>\n    </div>\n    \n    <div class=\"main_image\">\n        <img src=\"img/oficina.jpg\" alt=\"\">\n    </div>\n            \n    <div class=\"container clearfix\">\n        <div class=\"columna\">\n            <div class=\"description\">\n            <p>En nuestro despacho le ofrecemos una atención totalmente personalizada desde su primera visita, informándole y asesorandole sobre las acciones que debe realizar para resolver su caso, tras ser este estudiado de forma exhaustiva por cualquiera de nuestros dos letrados, que disponen de amplia experiencia.</p>\n            <p>Casafont-Toledo Advocats le ofrece sus servicios legales a los mejores precios y con la garantía de contar con letrados que estudiarán su caso, hasta el mínimo detalle para que no se les escape ningún dato que pueda ser relevante a la hora de llevar su caso.</p>\n        </div> <!--description--> \n        </div>\n                            \n    </div><!--container-->\n\n    <footer>\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"container\">\n                    <p>&copy; Company 2014</p>\n                </div>\n            </div>\n        </div>\n    </footer>\n\n        <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js\"></script>\n        <script>window.jQuery || document.write('<script src=\"js/vendor/jquery-1.11.0.min.js\"><\\/script>')</script>\n        <script src=\"js/plugins.js\"></script>\n        <script src=\"js/main.js\"></script>\n        <script>\n            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=\n            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;\n            e=o.createElement(i);r=o.getElementsByTagName(i)[0];\n            e.src='//www.google-analytics.com/analytics.js';\n            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));\n            ga('create','UA-XXXXX-X');ga('send','pageview');\n        </script>\n    </body>\n</html>\n",
 			"file": "index.html",
+			"file_size": 4282,
+			"file_write_time": 130378980114896399,
 			"settings":
 			{
-				"buffer_size": 4590,
+				"buffer_size": 4049,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quienes-somos.html",
+			"settings":
+			{
+				"buffer_size": 4369,
 				"line_ending": "Windows"
 			}
 		},
@@ -27,7 +38,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 10402,
+				"buffer_size": 10828,
 				"line_ending": "Windows"
 			}
 		},
@@ -35,7 +46,7 @@
 			"file": "areas.html",
 			"settings":
 			{
-				"buffer_size": 5318,
+				"buffer_size": 5957,
 				"line_ending": "Windows"
 			}
 		},
@@ -43,7 +54,23 @@
 			"file": "contacto.html",
 			"settings":
 			{
-				"buffer_size": 5723,
+				"buffer_size": 6837,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lawyers2.sublime-project",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 51,
 				"line_ending": "Windows"
 			}
 		}
@@ -88,6 +115,8 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/lawyers2/lawyers2/lawyers2.sublime-project",
+		"/C/xampp/htdocs/lawyers2/lawyers2/lawyers2.sublime-workspace",
 		"/C/xampp/htdocs/lawyers2/lawyers2/js/main.js",
 		"/C/xampp/htdocs/lawyers2/lawyers2/contacto.html",
 		"/C/xampp/htdocs/lawyers2/lawyers2/areas.html",
@@ -213,9 +242,7 @@
 		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single-post.php",
 		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single.php",
 		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single-simpatizante.php",
-		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single-Destacado.php",
-		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/searchform.php",
-		"/C/xampp/htdocs/landscapecode/css/reset.css"
+		"/C/xampp/htdocs/wagging2/wp-content/themes/wp-bootstrap3/single-Destacado.php"
 	],
 	"find":
 	{
@@ -223,7 +250,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 96.0,
 		"where_history":
 		[
 			"C:\\xampp\\htdocs\\lawyers2\\lawyers2",
@@ -238,6 +265,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"html",
+			"/lawyers2",
+			"http://localhost/lawyers2/lawyers2/",
+			"http://localhost/lawyers2",
+			"active",
 			"menu",
 			"navigation",
 			"idiomas",
@@ -345,6 +377,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"",
 			"#333",
 			"$mango",
 			""
@@ -358,7 +391,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -366,15 +399,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4590,
+						"buffer_size": 4049,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								194,
-								194
+								14,
+								14
 							]
 						],
 						"settings":
@@ -391,10 +424,122 @@
 				},
 				{
 					"buffer": 1,
+					"file": "quienes-somos.html",
+					"settings":
+					{
+						"buffer_size": 4369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1461,
+								1461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 645.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 10402,
+						"buffer_size": 10828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2273,
+								2273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2580.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "areas.html",
+					"settings":
+					{
+						"buffer_size": 5957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1966,
+								1966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 437.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "contacto.html",
+					"settings":
+					{
+						"buffer_size": 6837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6006,
+								6006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2565.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lawyers2.sublime-project",
+					"settings":
+					{
+						"buffer_size": 131,
 						"regions":
 						{
 						},
@@ -407,37 +552,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 6900.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "areas.html",
-					"settings":
-					{
-						"buffer_size": 5318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								181,
-								181
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -446,26 +561,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "contacto.html",
+					"buffer": 6,
+					"file": ".gitignore",
 					"settings":
 					{
-						"buffer_size": 5723,
+						"buffer_size": 51,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								184,
-								184
+								51,
+								51
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -536,6 +649,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 113.0,
+	"side_bar_width": 341.0,
 	"status_bar_visible": true
 }
