@@ -1,9 +1,2 @@
-# Include your project-specific ignores in this file
-# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
-boiler.sublime-project
-boiler.sublime-workspace
-
-.DS-STORE
-sass/.sass-cache
-.sass-cache
-sass/style.css
+lawyers2.sublime-project
+lawyers2.sublime-workspace
