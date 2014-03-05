@@ -110,11 +110,44 @@ li.idiomas{
 }
 
 .idiomas a{
-    padding: 0 10px 0 0;
+    padding: 0 10px 0 6px;
     font-size: 12px;    
 }
 
-
+/* ==========================================================================
+   AREAS
+   ========================================================================== */
+ul.areas li {
+    display: inline-block;
+    padding: 0 9px 0 0px;
+}
+#areas h3 {
+color: #90142E;
+font-size: 15px;
+margin: 17px 0px 3px;
+}
+/* ==========================================================================
+   CONTACTO
+   ========================================================================== */
+#contacto {
+    padding: 10px 0 46px;
+}
+.mapa{
+    width: 50%;
+    float: left;
+    padding: 8px 10px 6px;
+}
+.mapa p{
+    float: right;
+}
+.direccion-contacto {
+    width: 50%;
+    float:left;
+}
+#ver-mapa a{
+    color: #90142E;
+    text-align: left;
+}
 /* ==========================================================================
    SECTION
    ========================================================================== */
@@ -152,8 +185,24 @@ section {
 .perfil{
     padding: 28px 0 5px;
     vertical-align: top;
-    width: 100%;
 }
+.perfil-image{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    padding: 0 0 10px 0;
+}
+.perfil-descripcion{
+    padding: 0 5px 0 10px;
+    width: 337px;
+    vertical-align: top;
+    display: inline-block;
+ }
+.nombre {
+    color: #000;
+    font-size: 15px;
+}
+
 
 /* ==========================================================================
    CONTACTO
@@ -168,14 +217,6 @@ section {
 }
 .donde img {
     width: 100%;
-}
-.direccion{
-    width:50%;
-
-    float: left;
-    padding: 0px 12px 10px 10px;
-    margin: 0 0 10px 0;
-    text-align: right;
 }
 
 @keyframes lineam {
@@ -230,20 +271,41 @@ section {
     animation: lineam 7s forwards linear infinite;
 }
 
-
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
 footer{
-    background:#1B1C20;
-    color:#fff;
+    background: #1B1C20;
+    color: #777777;
     min-height: 200px;
     bottom: 0;
+    margin: 50px 0 0;
 }
 footer a{
-    color:#fff;
+    color:#777777;
 }
 footer a:hover{
     color:#B21736;
 }
-
+footer .container {
+    padding: 10px 10px 10px 7px;
+}
+footer ul li{
+    padding: 3px 3px 3px 0px;
+}
+footer p{
+    text-align: right;
+}
+footer .row{
+    overflow:hidden;
+}
+footer .columna{
+    float:left;
+    width:25%;
+}
+.direccion{
+    padding:5px 0;
+}
 
 /* ==========================================================================
    Helper classes
